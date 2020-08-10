@@ -1,0 +1,32 @@
+.gifs{
+    animation-duration: 5s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+    }
+  
+  @keyframes slidein {
+    from {
+      margin-left: -30%;
+      
+    }
+    to {
+      margin-left: 70%;
+      
+    }
+  }
+  .textosobrenos{
+      margin: auto;
+      font-family: Arial, Helvetica, sans-serif;
+      color: black;
+      background-color: green; 
+      width: 700px;
+      text-align: center;
+      padding: 40px;
+    }
+    h2{
+        margin-top: 10px;
+
+        }
+        p{
+          padding: 20px;
+        }

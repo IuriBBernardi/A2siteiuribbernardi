@@ -1,0 +1,11 @@
+
+.mb-4{
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-color: green; 
+    width: 700px;
+    text-align: center;
+    padding: 40px;
+  }
+ 
